@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+	<head>
+		<title>
+			<subtitle>Test</subtitle>
+			<maintitle id="abc">Bla</maintitle>
+		</title>
+	</head>
+	<main>
+	</main>
+</root>
